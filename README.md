@@ -114,6 +114,7 @@ This repository contains my personal notes and examples while learning Python â€
 
 ### 4. Inheritance
 - Single inheritance
+- Multi-level Inheritance
 - Multiple inheritance
 - `super()` function
 - Method overriding
